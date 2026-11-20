@@ -1,0 +1,1078 @@
+{
+    "weather_icons":{
+        "100":{
+            "my_Code": 100,
+            "jma_Code": 100,
+            "name": "晴れ",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/100/100.png"
+        },
+        "101":{
+            "my_Code": 101,
+            "jma_Code": 101,
+            "name": "晴れ 時々 くもり",
+            "URL": "http://github.com/gakkousennyoutasu-droid/weather-icons/blob/main/100/101.png?raw=true"
+        },
+        "102":{
+            "my_Code": 102,
+            "jma_Code": 102,
+            "name": "晴れ 一時 雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/100/102.png"
+        },
+        "103":{
+            "my_Code": 102,
+            "jma_Code": 103,
+            "name": "晴れ 時々 雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/100/102.png"
+        },
+        "104":{
+            "my_Code": 104,
+            "jma_Code": 104,
+            "name": "晴れ 一時 雪",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/100/104.png"
+        },
+        "105":{
+            "my_Code": 104,
+            "jma_Code": 105,
+            "name": "晴れ 時々 雪",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/100/104.png"
+        },
+        "183":{
+            "my_Code": 183,
+            "jma_Code": null,
+            "name": "晴れ 時々 小雨(にわか雨)",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/100/183.png"
+        },
+        "106":{
+            "my_Code": 102,
+            "jma_Code": 106,
+            "name": "晴れ 一時 雨か雪",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/100/102.png"
+        },
+        "107":{
+            "my_Code": 102,
+            "jma_Code": 107,
+            "name": "晴れ 時々 雨か雪",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/100/102.png"
+        },
+        "108":{
+            "my_Code": 102,
+            "jma_Code": 108,
+            "name": "晴れ 一時 雨か雷雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/100/102.png"
+        },
+        "110":{
+            "my_Code": 111,
+            "jma_Code": 110,
+            "name": "晴れ のち時々くもり",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/100/111.png"
+        },
+        "111":{
+            "my_Code": 111,
+            "jma_Code": 111,
+            "name": "晴れ のち くもり",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/100/111.png"
+        },
+        "112":{
+            "my_Code": 112,
+            "jma_Code": 112,
+            "name": "晴れ のち一時 雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/100/112.png"
+        },
+        "113":{
+            "my_Code": 112,
+            "jma_Code": 112,
+            "name": "晴れ のち時々 雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/100/112.png"
+        },
+        "114":{
+            "my_Code": 114,
+            "jma_Code": 114,
+            "name": "晴れ のち 雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/100/114.png"
+        },
+        "115":{
+            "my_Code": 104,
+            "jma_Code": 115,
+            "name": "晴れ のち一時 雪",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/100/104.png"
+        },
+        "116":{
+            "my_Code": 104,
+            "jma_Code": 116,
+            "name": "晴れ のち時々 雪",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/100/104.png"
+        },
+        "117":{
+            "my_Code": 117,
+            "jma_Code": 117,
+            "name": "晴れ のち 雪",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/100/117.png"
+        },
+        "118":{
+            "my_Code": 117,
+            "jma_Code": 118,
+            "name": "晴れ のち 雨か雪",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/100/117.png"
+        },
+        "119":{
+            "my_Code": 114,
+            "jma_Code": 119,
+            "name": "晴れ のち 雨か雷雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/100/114.png"
+        },
+        "120":{
+            "my_Code": 102,
+            "jma_Code": 120,
+            "name": "晴れ 朝夕 一時 雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/100/102.png"
+        },
+        "190":{
+            "my_Code": 190,
+            "jma_Code": null,
+            "name": "晴れ のち 大雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/100/190.png"
+        },
+        "191":{
+            "my_Code": 191,
+            "jma_Code": null,
+            "name": "晴れ 時々 大雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/100/191.png"
+        },
+        "121":{
+            "my_Code": 102,
+            "jma_Code": 121,
+            "name": "晴れ 朝の内一時 雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/100/102.png"
+        },
+        "122":{
+            "my_Code": 102,
+            "jma_Code": 122,
+            "name": "晴れ 夕方一時 雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/100/102.png"
+        },
+        "123":{
+            "my_Code": 102,
+            "jma_Code": 123,
+            "name": "晴れ 山沿い 雷雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/100/102.png"
+        },
+        "124":{
+            "my_Code": 104,
+            "jma_Code": 124,
+            "name": "晴れ 山沿い 雪",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/100/104.png"
+        },        
+        "125":{
+            "my_Code": 114,
+            "jma_Code": 125,
+            "name": "晴れ 午後は雷雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/100/114.png"
+        },
+        "126":{
+            "my_Code": 114,
+            "jma_Code": 126,
+            "name": "晴れ 昼頃から雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/100/114.png"
+        },
+        "127":{
+            "my_Code": 114,
+            "jma_Code": 127,
+            "name": "晴れ 夕方から雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/100/114.png"
+        },
+        "128":{
+            "my_Code": 114,
+            "jma_Code": 128,
+            "name": "晴れ 夜は雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/100/114.png"
+        },
+        "129":{
+            "my_Code": 114,
+            "jma_Code": 129,
+            "name": "晴れ 夜半から雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/100/114.png"
+        },
+        "130":{
+            "my_Code": 100,
+            "jma_Code": 130,
+            "name": "朝の内 霧 後 晴れ",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/100/100.png"
+        },
+        "131":{
+            "my_Code": 100,
+            "jma_Code": 131,
+            "name": "晴れ 明け方 霧",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/100/100.png"
+        },
+        "132":{
+            "my_Code": 101,
+            "jma_Code": 132,
+            "name": "晴れ 朝夕 くもり",
+            "URL": "http://github.com/gakkousennyoutasu-droid/weather-icons/blob/main/100/101.png?raw=true"
+        },
+        "140":{
+            "my_Code": 102,
+            "jma_Code": 140,
+            "name": "晴れ 時々 雨で雷を伴う",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/100/102.png"
+        },
+        "160":{
+            "my_Code": 102,
+            "jma_Code": 160,
+            "name": "晴れ 一時 雪か雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/100/102.png"
+        },
+        "170":{
+            "my_Code": 102,
+            "jma_Code": 170,
+            "name": "晴れ 時々 雪か雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/100/102.png"
+        },
+        "181":{
+            "my_Code": 117,
+            "jma_Code": 181,
+            "name": "晴れ のち 雪か雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/100/117.png"
+        },
+        "182":{
+            "my_Code": 182,
+            "jma_Code": null,
+            "name": "晴れ のち 大雪",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/100/182.png"
+        },
+        "184":{
+            "my_Code": 184,
+            "jma_Code": null,
+            "name": "晴れ 時々 大雪",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/100/184.png"
+        },
+        "200":{
+            "my_Code": 200,
+            "jma_Code": 200,
+            "name": "くもり",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/200/200.png"
+        },
+        "201":{
+            "my_Code": 201,
+            "jma_Code": 201,
+            "name": "くもり 時々 晴れ",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/200/201.png"
+        },
+        "202":{
+            "my_Code": 202,
+            "jma_Code": 202,
+            "name": "くもり 一時 雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/200/202.png"
+        },
+        "203":{
+            "my_Code": 202,
+            "jma_Code": 203,
+            "name": "くもり 時々 雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/200/202.png"
+        },
+        "204":{
+            "my_Code": 204,
+            "jma_Code": 204,
+            "name": "くもり 一時 雪",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/200/204.png"
+        },
+        "205":{
+            "my_Code": 204,
+            "jma_Code": 205,
+            "name": "くもり 時々 雪",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/200/204.png"
+        },
+        "206":{
+            "my_Code": 214,
+            "jma_Code": 206,
+            "name": "くもり 一時 雨か雪",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/200/214.png"
+        },
+        "207":{
+            "my_Code": 202,
+            "jma_Code": 207,
+            "name": "くもり 時々 雨か雪",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/200/202.png"
+        },
+        "208":{
+            "my_Code": 202,
+            "jma_Code": 208,
+            "name": "くもり 一時 雨か雷雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/200/202.png"
+        },
+        "209":{
+            "my_Code": 200,
+            "jma_Code": 209,
+            "name": "霧",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/200/200.png"
+        },
+        "210":{
+            "my_Code": 201,
+            "jma_Code": 210,
+            "name": "くもり のち時々 晴れ",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/200/201.png"
+        },
+        "211":{
+            "my_Code": 211,
+            "jma_Code": 211,
+            "name": "くもり のち 晴れ",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/200/211.png"
+        },
+        "212":{
+            "my_Code": 202,
+            "jma_Code": 212,
+            "name": "くもり のち一時 雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/200/202.png"
+        },
+        "213":{
+            "my_Code": 202,
+            "jma_Code": 213,
+            "name": "くもり のち時々 雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/200/202.png"
+        },
+        "214":{
+            "my_Code": 214,
+            "jma_Code": 214,
+            "name": "くもり のち 雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/200/214.png"
+        },
+        "215":{
+            "my_Code": 204,
+            "jma_Code": 215,
+            "name": "くもり のち一時 雪",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/200/204.png"
+        },
+        "216":{
+            "my_Code": 204,
+            "jma_Code": 216,
+            "name": "くもり のち時々 雪",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/200/204.png"
+        },
+        "217":{
+            "my_Code": 217,
+            "jma_Code": 217,
+            "name": "くもり のち 雪",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/200/217.png"
+        },
+        "218":{
+            "my_Code": 214,
+            "jma_Code": 218,
+            "name": "くもり のち 雨か雪",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/200/214.png"
+        },
+        "219":{
+            "my_Code": 214,
+            "jma_Code": 219,
+            "name": "くもり のち 雨か雷雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/200/214.png"
+        },
+        "220":{
+            "my_Code": 202,
+            "jma_Code": 220,
+            "name": "くもり 朝夕一時 雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/200/202.png"
+        },
+        "221":{
+            "my_Code": 202,
+            "jma_Code": 221,
+            "name": "くもり 朝の内一時 雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/200/202.png"
+        },
+        "222":{
+            "my_Code": 214,
+            "jma_Code": 222,
+            "name": "くもり 夕方一時 雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/200/214.png"
+        },
+        "223":{
+            "my_Code": 201,
+            "jma_Code": 223,
+            "name": "くもり 日中時々 晴れ",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/200/201.png"
+        },
+        "224":{
+            "my_Code": 214,
+            "jma_Code": 224,
+            "name": "くもり 昼頃から雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/200/214.png"
+        },
+        "225":{
+            "my_Code": 214,
+            "jma_Code": 225,
+            "name": "くもり 夕方から雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/200/214.png"
+        },
+        "226":{
+            "my_Code": 214,
+            "jma_Code": 226,
+            "name": "くもり 夜は雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/200/214.png"
+        },
+        "227":{
+            "my_Code": 202,
+            "jma_Code": 227,
+            "name": "くもり 夜半から雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/200/202.png"
+        },
+        "228":{
+            "my_Code": 217,
+            "jma_Code": 228,
+            "name": "くもり 昼頃から雪",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/200/217.png"
+        },
+        "229":{
+            "my_Code": 217,
+            "jma_Code": 229,
+            "name": "くもり 夕方から雪",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/200/217.png"
+        },
+        "230":{
+            "my_Code": 204,
+            "jma_Code": 230,
+            "name": "くもり 夜は雪",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/200/204.png"
+        },
+        "231":{
+            "my_Code": 200,
+            "jma_Code": 231,
+            "name": "くもり海上海岸は霧か霧雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/200/200.png"
+        },
+        "240":{
+            "my_Code": 202,
+            "jma_Code": 240,
+            "name": "くもり 時々雨で 雷を伴う",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/200/202.png"
+        },
+        "250":{
+            "my_Code": 204,
+            "jma_Code": 250,
+            "name": "くもり 時々雪で 雷を伴う",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/200/204.png"
+        },
+        "260":{
+            "my_Code": 204,
+            "jma_Code": 260,
+            "name": "くもり 一時 雪か雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/200/204.png"
+        },
+        "270":{
+            "my_Code": 204,
+            "jma_Code": 270,
+            "name": "くもり 時々 雪か雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/200/204.png"
+        },
+        "281":{
+            "my_Code": 217,
+            "jma_Code": 281,
+            "name": "くもり のち 雪か雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/200/217.png"
+        },
+        "282":{
+            "my_Code": 282,
+            "jma_Code": null,
+            "name": "くもり のち 小雨(にわか雨)",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/200/282.png"
+        },
+        "283":{
+            "my_Code": 283,
+            "jma_Code": null,
+            "name": "くもり のち 大雪",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/200/283.png"
+        },
+        "284":{
+            "my_Code": 284,
+            "jma_Code": null,
+            "name": "くもり 時々 大雪",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/200/284.png"
+        },
+        "285":{
+            "my_Code": 285,
+            "jma_Code": null,
+            "name": "くもり 時々 小雨(にわか雨)",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/200/285.png"
+        },
+        "290":{
+            "my_Code": 290,
+            "jma_Code": null,
+            "name": "くもり のち 大雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/200/290.png"
+        },
+        "291":{
+            "my_Code": 291,
+            "jma_Code": null,
+            "name": "くもり 時々 大雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/200/291.png"
+        },
+        "300":{
+            "my_Code": 300,
+            "jma_Code": 300,
+            "name": "雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/300/300.png"
+        },
+        "301":{
+            "my_Code": 301,
+            "jma_Code": 301,
+            "name": "雨 時々 晴れ",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/300/301.png"
+        },
+        "302":{
+            "my_Code": 302,
+            "jma_Code":302 ,
+            "name": "雨 時々 止む",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/300/302.png"
+        },
+        "303":{
+            "my_Code": 303,
+            "jma_Code": 303,
+            "name": "雨 時々 雪",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/300/303.png"
+        },
+        "304":{
+            "my_Code": 300,
+            "jma_Code": 304,
+            "name": "雨か雪",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/300/300.png"
+        },
+        "306":{
+            "my_Code": 306,
+            "jma_Code": 306,
+            "name": "大雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/300/306.png"
+        },
+        "307":{
+            "my_Code": 306,
+            "jma_Code": 307,
+            "name": "風雨共に強い",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/300/306.png"
+        },
+        "308":{
+            "my_Code": 306,
+            "jma_Code": 308,
+            "name": "雨で暴風を伴う",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/300/306.png"
+        },
+        "309":{
+            "my_Code": 303,
+            "jma_Code": 309,
+            "name": "雨 一時 雪",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/300/303.png"
+        },
+        "311":{
+            "my_Code": 311,
+            "jma_Code": 311,
+            "name": "雨 のち 晴れ",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/300/311.png"
+        },
+        "313":{
+            "my_Code": 313,
+            "jma_Code": 313,
+            "name": "雨 のち くもり",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/300/313.png"
+        },
+        "314":{
+            "my_Code": 303,
+            "jma_Code": 314,
+            "name": "雨 のち時々 雪",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/300/303.png"
+        },
+        "315":{
+            "my_Code": 415,
+            "jma_Code": 315,
+            "name": "雨 のち 雪",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/300/315.png"
+        },
+        "316":{
+            "my_Code": 311,
+            "jma_Code": 316,
+            "name": "雨か雪 のち 晴れ",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/300/311.png"
+        },
+        "317":{
+            "my_Code": 313,
+            "jma_Code": 317,
+            "name": "雨か雪 のち くもり",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/300/313.png"
+        },
+        "320":{
+            "my_Code": 311,
+            "jma_Code": 320,
+            "name": "朝の内雨 のち 晴れ",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/300/311.png"
+        },
+        "321":{
+            "my_Code": 313,
+            "jma_Code": 321,
+            "name": "朝の内雨 のち くもり",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/300/313.png"
+        },
+        "322":{
+            "my_Code": 315,
+            "jma_Code": 322,
+            "name": "雨 朝晩一時 雪",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/300/315.png"
+        },
+        "323":{
+            "my_Code": 311,
+            "jma_Code": 323,
+            "name": "雨 昼頃から 晴れ",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/300/311.png"
+        },
+        "324":{
+            "my_Code": 311,
+            "jma_Code": 324,
+            "name": "雨 夕方から 晴れ",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/300/311.png"
+        },
+        "325":{
+            "my_Code": 301,
+            "jma_Code": 325,
+            "name": "雨 夜は晴",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/300/301.png"
+        },
+        "326":{
+            "my_Code": 303,
+            "jma_Code": 326,
+            "name": "雨 夕方から雪",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/300/303.png"
+        },
+        "327":{
+            "my_Code": 303,
+            "jma_Code": 327,
+            "name": "雨 夜は雪",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/300/303.png"
+        },
+        "328":{
+            "my_Code": 391,
+            "jma_Code": 328,
+            "name": "雨 一時強く降る",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/300/391.png"
+        },
+        "329":{
+            "my_Code": 329,
+            "jma_Code": 329,
+            "name": "雨 一時 みぞれ",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/300/329.png"
+        },
+        "340":{
+            "my_Code": 400,
+            "jma_Code": 340,
+            "name": "雪か雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/400/400.png"
+        },
+        "350":{
+            "my_Code": 300,
+            "jma_Code": 350,
+            "name": "雨で雷を伴う",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/300/300.png"
+        },
+        "361":{
+            "my_Code": 411,
+            "jma_Code": 361,
+            "name": "雪か雨 のち 晴れ",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/400/411.png"
+        },
+        "371":{
+            "my_Code": 413,
+            "jma_Code": 371,
+            "name": "雪か雨 のち くもり",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/400/413.png"
+        },
+        "380":{
+            "my_Code": 380,
+            "jma_Code": null,
+            "name": "雨 のち 大雪",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/300/380.png"
+        },
+        "381":{
+            "my_Code": 381,
+            "jma_Code": null,
+            "name": "雨 時々 大雪",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/300/381.png"
+        },
+        "390":{
+            "my_Code": 390,
+            "jma_Code": null,
+            "name": "雨 のち 大雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/300/390.png"
+        },
+        "391":{
+            "my_Code": 391,
+            "jma_Code": null,
+            "name": "雨 時々 大雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/300/391.png"
+        },
+        "400":{
+            "my_Code": 400,
+            "jma_Code": 400,
+            "name": "雪",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/400/400.png"
+        },
+        "401":{
+            "my_Code": 401,
+            "jma_Code": 401,
+            "name": "雪 時々 晴れ",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/400/401.png"
+        },
+        "402":{
+            "my_Code": 402,
+            "jma_Code": 402,
+            "name": "雪 時々止む",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/400/402.png"
+        },
+        "403":{
+            "my_Code": 403,
+            "jma_Code": 403,
+            "name": "雪 時々 雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/400/403.png"
+        },
+        "405":{
+            "my_Code": 405,
+            "jma_Code": 405,
+            "name": "大雪",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/400/405.png"
+        },
+        "406":{
+            "my_Code": 405,
+            "jma_Code": 406,
+            "name": "風雪強い",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/400/405.png"
+        },
+        "407":{
+            "my_Code": 405,
+            "jma_Code": 407,
+            "name": "暴風雪",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/400/405.png"
+        },
+        "409":{
+            "my_Code": 403,
+            "jma_Code": 409,
+            "name": "雪 一時 雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/400/403.png"
+        },
+        "411":{
+            "my_Code": 411,
+            "jma_Code": 411,
+            "name": "雪 のち 晴れ",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/400/411.png"
+        },
+        "413":{
+            "my_Code": 413,
+            "jma_Code": 413,
+            "name": "雪 のち くもり",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/400/413.png"
+        },
+        "414":{
+            "my_Code": 414,
+            "jma_Code": 414,
+            "name": "雪 のち 雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/400/414.png"
+        },
+        "420":{
+            "my_Code": 411,
+            "jma_Code": 420,
+            "name": "朝の内雪 のち 晴れ",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/400/411.png"
+        },
+        "421":{
+            "my_Code": 413,
+            "jma_Code": 421,
+            "name": "朝の内雪 のち くもり",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/400/413.png"
+        },
+        "422":{
+            "my_Code": 414,
+            "jma_Code": 422,
+            "name": "雪 昼頃から雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/400/414.png"
+        },
+        "423":{
+            "my_Code": 414,
+            "jma_Code": 423,
+            "name": "雪 夜半から雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/400/403.png"
+        },
+        "425":{
+            "my_Code": 471,
+            "jma_Code": 425,
+            "name": "雪 一時強く降る",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/400/471.png"
+        },
+        "427":{
+            "my_Code": 427,
+            "jma_Code": 427,
+            "name": "雪 一時 みぞれ",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/400/427.png"
+        },
+        "450":{
+            "my_Code": 400,
+            "jma_Code": 450,
+            "name": "雪で雷を伴う",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/400/400.png"
+        },
+        "460":{
+            "my_Code": 460,
+            "jma_Code": null,
+            "name": "雪のち大雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/400/460.png"
+        },
+        "462":{
+            "my_Code": 462,
+            "jma_Code": null,
+            "name": "雪時々大雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/400/462.png"
+        },
+        "461":{
+            "my_Code": 461,
+            "jma_Code": null,
+            "name": "雪のち小雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/400/461.png"
+        },
+        "463":{
+            "my_Code": 463,
+            "jma_Code": null,
+            "name": "雪時々小雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/400/463.png"
+        },
+        "470":{
+            "my_Code": 470,
+            "jma_Code": null,
+            "name": "雪のち大雪",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/400/470.png"
+        },
+        "471":{
+            "my_Code": 471,
+            "jma_Code": null,
+            "name": "雪時々大雪",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/400/471.png"
+        },
+        "600":{
+            "my_Code": 600,
+            "jma_Code": null,
+            "name": "大雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/600/600.png"
+        },
+        "601":{
+            "my_Code": 601,
+            "jma_Code": null,
+            "name": "大雨 のち 晴れ",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/600/601.png"
+        },
+        "602":{
+            "my_Code": 602,
+            "jma_Code": null,
+            "name": "大雨 のち くもり",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/600/602.png"
+        },
+        "603":{
+            "my_Code": 603,
+            "jma_Code": null,
+            "name": "大雨 のち 雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/600/603.png"
+        },
+        "604":{
+            "my_Code": 604,
+            "jma_Code": null,
+            "name": "大雨 のち 小雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/600/604.png"
+        },
+        "605":{
+            "my_Code": 605,
+            "jma_Code": null,
+            "name": "大雨 のち 雪",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/600/605.png"
+        },
+        "606":{
+            "my_Code": 606,
+            "jma_Code": null,
+            "name": "大雨 のち 大雪",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/600/606.png"
+        },
+        "611":{
+            "my_Code": 611,
+            "jma_Code": null,
+            "name": "大雨 時々 晴れ",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/600/611.png"
+        },
+        "612":{
+            "my_Code": 612,
+            "jma_Code": null,
+            "name": "大雨 時々 くもり",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/600/612.png"
+        },
+        "613":{
+            "my_Code": 613,
+            "jma_Code": null,
+            "name": "大雨 時々 小雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/600/613.png"
+        },
+        "614":{
+            "my_Code": 614,
+            "jma_Code": null,
+            "name": "大雨 時々 雪",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/600/614.png"
+        },
+        "615":{
+            "my_Code": 615,
+            "jma_Code": null,
+            "name": "大雨 時々 雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/600/615.png"
+        },
+        "616":{
+            "my_Code": 616,
+            "jma_Code": null,
+            "name": "大雨 時々 大雪",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/600/616.png"
+        },
+        "650":{
+            "my_Code": 650,
+            "jma_Code": null,
+            "name": "大雪",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/600/650.png"
+        },
+        "651":{
+            "my_Code": 651,
+            "jma_Code": null,
+            "name": "大雪 のち 晴れ",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/600/651.png"
+        },
+        "652":{
+            "my_Code": 652,
+            "jma_Code": null,
+            "name": "大雪 のち くもり",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/600/652.png"
+        },
+        "653":{
+            "my_Code": 653,
+            "jma_Code": null,
+            "name": "大雪 のち 雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/600/653.png"
+        },
+        "654":{
+            "my_Code": 654,
+            "jma_Code": null,
+            "name": "大雪 のち 小雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/600/654.png"
+        },
+        "655":{
+            "my_Code": 655,
+            "jma_Code": null,
+            "name": "大雪 のち 雪",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/600/655.png"
+        },
+        "656":{
+            "my_Code": 656,
+            "jma_Code": null,
+            "name": "大雪 のち 大雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/600/656.png"
+        },
+        "661":{
+            "my_Code": 661,
+            "jma_Code": null,
+            "name": "大雪 時々 晴れ",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/600/661.png"
+        },
+        "662":{
+            "my_Code": 662,
+            "jma_Code": null,
+            "name": "大雪 時々 くもり",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/600/662.png"
+        },
+        "663":{
+            "my_Code": 663,
+            "jma_Code": null,
+            "name": "大雪 時々 小雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/600/663.png"
+        },
+        "664":{
+            "my_Code": 664,
+            "jma_Code": null,
+            "name": "大雪 時々 雪",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/600/664.png"
+        },
+        "665":{
+            "my_Code": 665,
+            "jma_Code": null,
+            "name": "大雪 時々 雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/600/665.png"
+        },
+        "666":{
+            "my_Code": 666,
+            "jma_Code": null,
+            "name": "大雪 時々 大雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/600/666.png"
+        },
+        "500":{
+            "my_Code": 500,
+            "jma_Code": null,
+            "name": "猛暑",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/500/500.png"
+        },
+        "501":{
+            "my_Code": 501,
+            "jma_Code": null,
+            "name": "猛暑 のち くもり",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/500/501.png"
+        },
+        "502":{
+            "my_Code": 502,
+            "jma_Code": null,
+            "name": "猛暑 のち 雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/500/502.png"
+        },
+        "503":{
+            "my_Code": 503,
+            "jma_Code": null,
+            "name": "猛暑 のち 小雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/500/503.png"
+        },
+        "504":{
+            "my_Code": 504,
+            "jma_Code": null,
+            "name": "猛暑 のち 雪",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/500/504.png"
+        },
+        "505":{
+            "my_Code": 505,
+            "jma_Code": null,
+            "name": "猛暑 のち 大雪",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/500/505.png"
+        },
+        "511":{
+            "my_Code": 511,
+            "jma_Code": null,
+            "name": "猛暑 時々 くもり",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/500/511.png"
+        },
+        "512":{
+            "my_Code": 512,
+            "jma_Code": null,
+            "name": "猛暑 時々 小雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/500/512.png"
+        },
+        "513":{
+            "my_Code": 513,
+            "jma_Code": null,
+            "name": "猛暑 時々 雪",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/500/513.png"
+        },
+        "514":{
+            "my_Code": 514,
+            "jma_Code": null,
+            "name": "猛暑 時々 雨",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/500/514.png"
+        },
+        "515":{
+            "my_Code": 515,
+            "jma_Code": null,
+            "name": "猛暑 時々 大雪",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/500/515.png"
+        },
+        "999":{
+            "my_Code": 999,
+            "jma_Code": null,
+            "name": "NO DATA",
+            "URL": "https://raw.githubusercontent.com/gakkousennyoutasu-droid/weather-icons/refs/heads/main/999.png"
+        }
+    }
+}
